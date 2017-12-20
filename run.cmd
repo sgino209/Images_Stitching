@@ -1,1 +1,1 @@
-main.py -f ./demo/left.jpg -s ./demo/right.jpg
+main.py -f left.jpg -s right.jpg
